@@ -1,0 +1,14 @@
+{
+ "shopName": "Nature Batiks",
+ "tagline": "Hand-drawn batik sarees, crafted with tradition. Each piece is one of a kind.",
+ "whatsapp": "94770000000",
+ "products": [],
+ "payments": {
+  "cod": true,
+  "bank": true,
+  "card": false,
+  "online": false,
+  "bankDetails": "Bank: Your Bank\nAccount name: Nature Batiks\nAccount no: 0000000000\nBranch: Colombo",
+  "note": "Send the payment slip on WhatsApp to confirm your order."
+ }
+}
